@@ -1,0 +1,49 @@
+.copy_right_footer
+{
+    position : fixed;
+    color:seagreen;
+    bottom : 0;
+    width : 100%;
+    background-color: tan;
+    line-height: 3;
+    text-align: center;
+}
+
+body
+{
+    background:steelblue ;
+}
+
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4{
+    color:sandybrown;
+
+}
+#camera{
+    width: 500px;
+height : 400px;
+box-shadow: 0 6px 10px 0 silver;
+
+}
+ img{
+     width :37%;
+     border-radius : 4px;
+     padding: 10px;
+box-shadow: 0 6px 10px 0 silver;
+
+ }
+ .column{
+     display: inline;
+     padding : 6px;
+
+
+ }
+img:hover{
+    border-radius: 140px;
+}
+
